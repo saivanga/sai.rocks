@@ -21,18 +21,6 @@
       "url": "/games/"
     },
     {
-      "anchor": "Education",
-      "url": "/education/"
-    },
-    {
-      "anchor": "Places Visited",
-      "url": "/places-visited/"
-    },
-    {
-      "anchor": "Projects",
-      "url": "/projects/"
-    },
-    {
       "anchor": "Tips And Tricks",
       "url": "/tips-and-tricks/"
     },
@@ -50,3 +38,4 @@
   "showRelatedPosts": true,
   "relatedPostsTitle": "Related Posts"
 }
+
