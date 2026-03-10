@@ -159,7 +159,7 @@ module.exports = function (eleventyConfig) {
     });
 
     // Minify Html
-    const htmlmin = require("html-minifier");
+    const htmlmin = require("html-minifier-next");
 
     if (process.env.ELEVENTY_ENV === "production") {
         eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
